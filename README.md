@@ -5,15 +5,12 @@ CLIENT SIDE:
 The application must be delivered as a modern, responsive HTML interface running inside the web browser for desktop clients (Linux, Mac, Windows), as well as on mobile platforms. Each will be capable of communicating with the back-end web application running on the server. It is important for the client to notice all the considerations dealing with each platform such as costs, time, and expertise. The client side is the running script on the client's device, in this case it is the person playing the game. We are Producing a web-based game for multiple platforms called “Draw It or Lose It” that is currently only on Android. 
 
 What did you do particularly well in developing this documentation? 
-
 I feel like I did a great job organizing and describing enough information to help others understand and learn the differences in the platforms. 
 
 What about the process of working through a design document did you find helpful when developing the code? 
-
 Working through a design document helped me stay organized and on track of what we are trying to accomplish. It also broke down information that helped me understand a little more and see what each platform had that may be similar or different. 
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it? 
-
 I feel like I could have laid out my recommendations a little better and organized it in a way that would be easier for someone that didn’t know much about this project to absorb more information and maybe even get a little more detailed. 
 
 How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing? 
