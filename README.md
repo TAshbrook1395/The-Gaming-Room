@@ -16,7 +16,7 @@ I feel like I could have laid out my recommendations a little better and organiz
 How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing? 
 I explained each platform with their: 
 
-Characteristics: Key characteristics of each operating platform such as Performance, stability, security, and difficulty. 
+-Characteristics: Key characteristics of each operating platform such as Performance, stability, security, and difficulty. 
 
 -Advantages: Advantages that each operating platform holds that can help identify what each platform has to offer. 
 
